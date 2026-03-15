@@ -4,7 +4,7 @@ This project demonstrates deploying a Dockerized Node.js application on AWS usin
 
 ## Architecture
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture]((https://github.com/PROTIKPATRA/aws-ecs-nodejs-container-deployment/tree/main/Snapshots/architecture))
 
 ## AWS Services Used
 
