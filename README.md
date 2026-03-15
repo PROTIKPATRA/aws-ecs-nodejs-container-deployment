@@ -4,8 +4,6 @@ This project demonstrates deploying a Dockerized Node.js application on AWS usin
 
 ## Architecture
 
-![Architecture]((https://github.com/PROTIKPATRA/aws-ecs-nodejs-container-deployment/tree/main/Snapshots/architecture))
-
 ## AWS Services Used
 
 - Amazon EC2
@@ -29,16 +27,14 @@ This project demonstrates deploying a Dockerized Node.js application on AWS usin
 ## Screenshots
 
 ### ECS Cluster
-![ECS](screenshots/ecs-cluster.png)
 
 ### ECR Repository
-![ECR](screenshots/ecr-repo.png)
 
 ### CloudWatch Dashboard
-![CloudWatch](screenshots/cloudwatch-dashboard.png)
+
 
 ### Running Container
-![Task](screenshots/ecs-task.png)
+
 
 ## Tech Stack
 
